@@ -1,72 +1,28 @@
-# Python Learning Journey – CodeWithHarry YouTube Series
+# 📅 3-Month Roadmap
 
-This repository contains my practice code, notes, and exercises completed while following the **Python Tutorial for Beginners** by **CodeWithHarry** on YouTube.
+Complete learning path from Python basics to Machine Learning (90 days).
 
-## 📌 Purpose
+| Status | Topic | Resource | Timeline | Start – End Time |
+|--------|-------|----------|----------|------------------|
+| - [ ] | Python (Basic → Advanced) | [Apna College](https://www.youtube.com/@ApnaCollegeOfficial) | Day 1-5 | 10 Aug – 14 Aug 2026 |
+| - [ ] | NumPy | [freeCodeCamp.org](https://www.freecodecamp.org/) | Day 6-10 | 15 Aug – 19 Aug 2026 |
+| - [ ] | Pandas | [Keith Galli](https://www.youtube.com/@KeithGalli) | Day 11-15 | 20 Aug – 24 Aug 2026 |
+| - [ ] | Matplotlib | [Bro Code](https://www.youtube.com/@BroCodez) | Day 16-20 | 25 Aug – 29 Aug 2026 |
+| - [ ] | Math for Machine Learning | [CampusX](https://www.youtube.com/@campusx-official) | Day 21-50 | 30 Aug – 28 Sep 2026 |
+| - [ ] | Machine Learning for Everybody | [Kylie Ying](https://www.youtube.com/@kyliemying) | Day 51-60 | 29 Sep – 8 Oct 2026 |
+| - [ ] | AI Concepts Animated | [freeCodeCamp.org](https://www.freecodecamp.org/) | Day 61-70 | 9 Oct – 18 Oct 2026 |
+| - [ ] | Scikit-Learn Crash Course | [freeCodeCamp.org](https://www.freecodecamp.org/) | Day 71-80 | 19 Oct – 28 Oct 2026 |
+| - [ ] | Machine Learning Playlist | [Krish Naik](https://www.youtube.com/@krishnaik06) | Day 81-90 | 29 Oct – 7 Nov 2026 |
 
-* Learn Python programming from the basics.
-* Practice coding concepts through examples and exercises.
-* Track my progress throughout the course.
-* Build a strong foundation for future Python, AI/ML, and backend development.
+---
 
-## 📂 Repository Structure
+## Progress Summary
+- **Total Topics:** 9
+- **Total Duration:** 90 days
+- **Start Date:** 10 August 2026
+- **Expected End Date:** 7 November 2026
 
-```text
-├── Chapter-01/
-├── Chapter-02/
-├── Chapter-03/
-├── ...
-├── practice/
-└── README.md
-```
-
-Each chapter contains the code written while following the corresponding tutorial.
-
-## 📚 Topics Covered
-
-* Python Basics
-* Variables and Data Types
-* Operators
-* Strings
-* Lists and Tuples
-* Dictionaries and Sets
-* Conditional Statements
-* Loops
-* Functions
-* File Handling
-* Object-Oriented Programming (OOP)
-* Modules and Packages
-* Exception Handling
-* And more...
-
-## ▶️ How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-   ```
-
-2. Navigate to the project folder:
-
-   ```bash
-   cd <repository-name>
-   ```
-
-3. Run any Python file:
-
-   ```bash
-   python filename.py
-   ```
-
-## 🎥 Learning Resource
-
-Course: **Python Tutorial for Beginners** by **CodeWithHarry**
-
-## 🚀 Progress
-
-This repository is updated regularly as I complete new lessons and practice exercises.
-
-## 📄 License
-
-This repository is intended for learning and educational purposes.
+## How to use
+1. Tick the checkboxes (`- [ ]` → `- [x]`) as you finish each topic.
+2. Update the dates if your actual start date changes.
+3. Commit this file to your GitHub repo to track progress publicly.
