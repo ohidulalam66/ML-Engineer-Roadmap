@@ -18,3 +18,15 @@ print(name) # String is IMMTABLE
 
 # find
 print(name.find("T"))
+print(name.find("x")) # output is -1
+
+# replace
+print(name.replace("Tony", "Iron"))
+
+# check for presence
+print('T' in name) # True
+
+print('Y' in name)
+
+# reserved words
+# True, in, False, while, for, break, continue
