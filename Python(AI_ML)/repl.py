@@ -1,14 +1,14 @@
 # -> Mini Project REPL Calculator: (REPL within)
 
-# num1 = int(input("Enter the first Number: "))
-# num2 = int(input("Enter the second Number: "))
+num1 = int(input("Enter the first Number: "))
+num2 = int(input("Enter the second Number: "))
 
-# print(f"SUM is: {num1+num2}")
-# print(f"MUL is: {num1*num2}")
-# print(f"SUB is: {num1-num2}")
-# print(f"DIV is: {num1/num2}")
-# print(f"DIVS is: {num1%num2}")
-# print(f"AVG is: {num1+num2/2}")
+print(f"SUM is: {num1+num2}")
+print(f"MUL is: {num1*num2}")
+print(f"SUB is: {num1-num2}")
+print(f"DIV is: {num1/num2}")
+print(f"DIVS is: {num1%num2}")
+print(f"AVG is: {num1+num2/2}")
 
 # -> ASCII code
 print(ord('😁'))
