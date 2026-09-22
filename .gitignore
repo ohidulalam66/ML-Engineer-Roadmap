@@ -1,16 +1,5 @@
-# Environment variables
+.gitignore
 .env
-.env.*
-!.env.example
-
-# Python
-__pycache__/
-*.py[cod]
-
-# Virtual environment
+.env.example
 .venv/
-venv/
-
-# IDE
-.vscode/
-.idea/
+__pycache__/
