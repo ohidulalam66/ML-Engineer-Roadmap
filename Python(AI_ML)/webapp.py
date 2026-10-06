@@ -15,3 +15,5 @@ if name:
 
 age = st.slider("Select your age: ")
 st.write("your age is:", age)
+
+# terminal: streamlit run webapp.py
